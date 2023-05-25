@@ -2,3 +2,88 @@
 2023-05-25 16:32:09.220[error] DB Connection fail connect ECONNREFUSED 127.0.0.1:3006
 2023-05-25 16:32:17.714[info] app start
 2023-05-25 16:32:17.737[error] DB Connection fail connect ECONNREFUSED 127.0.0.1:3006
+2023-05-25 16:32:35.284[info] app start
+2023-05-25 16:32:35.351[info] DB connection success
+2023-05-25 16:32:35.392[info] Sequelize sync success
+2023-05-25 16:32:47.593[info] (user.reg.params) {"name":"test1","userid":"test1","password":"ssdsdasd","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-25 16:32:47.628[debug] (userService.reg) {"id":1,"name":"test1","userid":"test1","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-25T07:32:47.596Z","createdAt":"2023-05-25T07:32:47.596Z"}
+2023-05-25 16:32:47.630[info] (user.reg.result) {"id":1,"name":"test1","userid":"test1","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-25T07:32:47.596Z","createdAt":"2023-05-25T07:32:47.596Z"}
+2023-05-25 16:43:27.741[info] app start
+2023-05-25 16:43:27.795[info] DB connection success
+2023-05-25 16:43:27.802[info] Sequelize sync success
+2023-05-25 16:43:49.611[info] (user.reg.params) {"name":"test1","userid":"test1","password":"ssdsdasd","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-25 16:43:49.618[debug] (userService.makePassword) "ssdsdasd"
+2023-05-25 16:43:49.638[error] (userService.reg) SequelizeUniqueConstraintError: Validation error
+2023-05-25 16:44:11.355[info] (user.reg.params) {"name":"test1","userid":"test2","password":"ssdsdasd","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-25 16:44:11.357[debug] (userService.makePassword) "ssdsdasd"
+2023-05-25 16:44:11.373[debug] (userService.reg) {"id":3,"name":"test1","userid":"test2","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-25T07:44:11.358Z","createdAt":"2023-05-25T07:44:11.358Z"}
+2023-05-25 16:44:11.374[info] (user.reg.result) {"id":3,"name":"test1","userid":"test2","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-25T07:44:11.358Z","createdAt":"2023-05-25T07:44:11.358Z"}
+2023-05-25 16:45:15.212[info] app start
+2023-05-25 16:45:15.325[info] DB connection success
+2023-05-25 16:45:15.349[info] Sequelize sync success
+2023-05-25 16:47:04.216[info] app start
+2023-05-25 16:47:04.264[info] DB connection success
+2023-05-25 16:47:04.275[info] Sequelize sync success
+2023-05-25 16:47:11.595[info] app start
+2023-05-25 16:47:11.639[info] DB connection success
+2023-05-25 16:47:11.647[info] Sequelize sync success
+2023-05-25 16:50:56.212[info] app start
+2023-05-25 16:50:56.255[info] DB connection success
+2023-05-25 16:50:56.263[info] Sequelize sync success
+2023-05-25 16:53:51.742[info] app start
+2023-05-25 16:53:51.790[info] DB connection success
+2023-05-25 16:53:51.798[info] Sequelize sync success
+2023-05-25 16:54:27.413[info] app start
+2023-05-25 16:54:27.456[info] DB connection success
+2023-05-25 16:54:27.464[info] Sequelize sync success
+2023-05-25 16:54:46.895[info] app start
+2023-05-25 16:54:46.936[info] DB connection success
+2023-05-25 16:54:46.945[info] Sequelize sync success
+2023-05-25 17:02:01.939[info] app start
+2023-05-25 17:02:01.986[info] DB connection success
+2023-05-25 17:02:01.996[info] Sequelize sync success
+2023-05-25 17:02:25.317[info] (auth.token.params) {"userid":"test1","password":"ssdsdasd"}
+2023-05-25 17:02:25.330[debug] (userService.login) {"id":1,"userid":"test1","password":"ssdsdasd","name":"test1","role":"member"}
+2023-05-25 17:02:25.332[debug] (userService.checkPassword) false
+2023-05-25 17:02:25.332[error] Error: Incorect userid or password
+2023-05-25 17:05:07.889[info] (auth.token.params) {"userid":"test1","password":"ssdsdasd"}
+2023-05-25 17:05:07.901[debug] (userService.login) {"id":1,"userid":"test1","password":"ssdsdasd","name":"test1","role":"member"}
+2023-05-25 17:05:07.905[debug] (userService.checkPassword) false
+2023-05-25 17:05:07.906[error] Error: Incorect userid or password
+2023-05-25 17:05:20.725[info] (auth.token.params) {"userid":"test1","password":"ssdsdasd"}
+2023-05-25 17:05:20.736[debug] (userService.login) {"id":1,"userid":"test1","password":"ssdsdasd","name":"test1","role":"member"}
+2023-05-25 17:05:20.739[debug] (userService.checkPassword) false
+2023-05-25 17:05:20.741[error] Error: Incorect userid or password
+2023-05-25 17:06:27.399[info] (auth.token.params) {"userid":"test1","password":"ssdsdasd"}
+2023-05-25 17:06:27.412[debug] (userService.login) {"id":1,"userid":"test1","password":"ssdsdasd","name":"test1","role":"member"}
+2023-05-25 17:06:27.415[debug] (userService.checkPassword) false
+2023-05-25 17:06:27.417[error] Error: Incorect userid or password
+2023-05-25 17:06:52.400[info] (auth.token.params) {"userid":"test2","password":"ssdsdasd"}
+2023-05-25 17:06:52.410[debug] (userService.login) {"id":3,"userid":"test2","password":"W/EfNTfbRGBDHw4jmP/ZyIQLJ5RL/CauteHdGSvbKZljycEcSx/owLAsO/OkfcBhjJhloqDi14wI6Bk/U+hsoQ==.2e5bc67ec00a937735621308c922a9587d5f8cab1ba2b48940b87fc9ac8a2db9ca3da416eadd12897fe2aea7f9ce2cb1689b9484fce5667896e75b72577d47c4","name":"test1","role":"member"}
+2023-05-25 17:06:52.413[debug] (userService.checkPassword) true
+2023-05-25 17:06:52.414[info] (auth.token.result) {"id":3,"userid":"test2","password":"W/EfNTfbRGBDHw4jmP/ZyIQLJ5RL/CauteHdGSvbKZljycEcSx/owLAsO/OkfcBhjJhloqDi14wI6Bk/U+hsoQ==.2e5bc67ec00a937735621308c922a9587d5f8cab1ba2b48940b87fc9ac8a2db9ca3da416eadd12897fe2aea7f9ce2cb1689b9484fce5667896e75b72577d47c4","name":"test1","role":"member"}
+2023-05-25 17:07:18.490[info] (user.reg.params) {"name":"test13","userid":"test3","password":"ssdsdasd","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2023-05-25 17:07:18.494[debug] (userService.makePassword) "ssdsdasd"
+2023-05-25 17:07:18.528[debug] (userService.reg) {"id":4,"name":"test13","userid":"test3","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-25T08:07:18.497Z","createdAt":"2023-05-25T08:07:18.497Z"}
+2023-05-25 17:07:18.531[info] (user.reg.result) {"id":4,"name":"test13","userid":"test3","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2023-05-25T08:07:18.497Z","createdAt":"2023-05-25T08:07:18.497Z"}
+2023-05-25 17:07:39.995[info] (auth.token.params) {"userid":"test3","password":"ssdsdasd"}
+2023-05-25 17:07:40.003[debug] (userService.login) {"id":4,"userid":"test3","password":"CIxoani2PLP1wA561C438YYDwP3fDq2fncnWZ1NeMYrWeT24EgBjIcYn/qgUcZHE2C8huhsSiOIIx4FvaT57GA==.9220caf86f97aeacb2ce9a5a866317319c085e765f059193326297bd552a019b08d18f45e6d832805638f83975cee1205ec0ed1d86947f9fb13c67163421ec29","name":"test13","role":"member"}
+2023-05-25 17:07:40.007[debug] (userService.checkPassword) true
+2023-05-25 17:07:40.008[info] (auth.token.result) {"id":4,"userid":"test3","password":"CIxoani2PLP1wA561C438YYDwP3fDq2fncnWZ1NeMYrWeT24EgBjIcYn/qgUcZHE2C8huhsSiOIIx4FvaT57GA==.9220caf86f97aeacb2ce9a5a866317319c085e765f059193326297bd552a019b08d18f45e6d832805638f83975cee1205ec0ed1d86947f9fb13c67163421ec29","name":"test13","role":"member"}
+2023-05-25 17:08:20.537[info] app start
+2023-05-25 17:08:20.607[info] DB connection success
+2023-05-25 17:08:20.622[info] Sequelize sync success
+2023-05-25 17:08:24.395[info] (auth.token.params) {"userid":"test3","password":"ssdsdasd"}
+2023-05-25 17:08:24.408[debug] (userService.login) {"id":4,"userid":"test3","password":"CIxoani2PLP1wA561C438YYDwP3fDq2fncnWZ1NeMYrWeT24EgBjIcYn/qgUcZHE2C8huhsSiOIIx4FvaT57GA==.9220caf86f97aeacb2ce9a5a866317319c085e765f059193326297bd552a019b08d18f45e6d832805638f83975cee1205ec0ed1d86947f9fb13c67163421ec29","name":"test13","role":"member"}
+2023-05-25 17:08:24.413[debug] (userService.checkPassword) true
+2023-05-25 17:08:24.415[info] (auth.token.result) {"id":4,"userid":"test3","password":"CIxoani2PLP1wA561C438YYDwP3fDq2fncnWZ1NeMYrWeT24EgBjIcYn/qgUcZHE2C8huhsSiOIIx4FvaT57GA==.9220caf86f97aeacb2ce9a5a866317319c085e765f059193326297bd552a019b08d18f45e6d832805638f83975cee1205ec0ed1d86947f9fb13c67163421ec29","name":"test13","role":"member"}
+2023-05-25 17:10:09.421[info] (user.list.params) {"name":"","userid":""}
+2023-05-25 17:10:09.445[debug] (userService.list) {"count":3,"rows":[{"id":4,"name":"test13","userid":"test3","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-25T08:07:18.000Z","updatedAt":"2023-05-25T08:07:18.000Z","deletedAt":null},{"id":3,"name":"test1","userid":"test2","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-25T07:44:11.000Z","updatedAt":"2023-05-25T07:44:11.000Z","deletedAt":null},{"id":1,"name":"test1","userid":"test1","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-25T07:32:47.000Z","updatedAt":"2023-05-25T07:32:47.000Z","deletedAt":null}]}
+2023-05-25 17:10:09.450[info] (user.list.result) {"count":3,"rows":[{"id":4,"name":"test13","userid":"test3","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-25T08:07:18.000Z","updatedAt":"2023-05-25T08:07:18.000Z","deletedAt":null},{"id":3,"name":"test1","userid":"test2","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-25T07:44:11.000Z","updatedAt":"2023-05-25T07:44:11.000Z","deletedAt":null},{"id":1,"name":"test1","userid":"test1","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-25T07:32:47.000Z","updatedAt":"2023-05-25T07:32:47.000Z","deletedAt":null}]}
+2023-05-25 17:10:13.562[info] (user.list.params) {"name":"","userid":""}
+2023-05-25 17:10:13.571[debug] (userService.list) {"count":3,"rows":[{"id":4,"name":"test13","userid":"test3","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-25T08:07:18.000Z","updatedAt":"2023-05-25T08:07:18.000Z","deletedAt":null},{"id":3,"name":"test1","userid":"test2","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-25T07:44:11.000Z","updatedAt":"2023-05-25T07:44:11.000Z","deletedAt":null},{"id":1,"name":"test1","userid":"test1","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-25T07:32:47.000Z","updatedAt":"2023-05-25T07:32:47.000Z","deletedAt":null}]}
+2023-05-25 17:10:13.576[info] (user.list.result) {"count":3,"rows":[{"id":4,"name":"test13","userid":"test3","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-25T08:07:18.000Z","updatedAt":"2023-05-25T08:07:18.000Z","deletedAt":null},{"id":3,"name":"test1","userid":"test2","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-25T07:44:11.000Z","updatedAt":"2023-05-25T07:44:11.000Z","deletedAt":null},{"id":1,"name":"test1","userid":"test1","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2023-05-25T07:32:47.000Z","updatedAt":"2023-05-25T07:32:47.000Z","deletedAt":null}]}
+2023-05-25 17:10:36.087[info] app start
+2023-05-25 17:10:36.165[info] DB connection success
+2023-05-25 17:10:36.195[info] Sequelize sync success
+2023-05-25 17:10:40.564[error] Error: Unauthorized token

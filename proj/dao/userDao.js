@@ -47,6 +47,18 @@ const dao = {
       });
     });
   },
+  selectUser(params) {
+    return new Promise((resolve, reject) => {
+      User.findOne({
+        attributes: ['id', 'userid', 'password', 'name', 'role'],
+        where: { userid: params.userid },
+      }).then((selectedOne) => {
+        resolve(selectedOne);
+      }).catch((err) => {
+        reject(err);
+      });
+    });
+  },
 };
 
 module.exports = dao;

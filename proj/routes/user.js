@@ -3,6 +3,7 @@ const express = require('express');
 const router = express.Router();
 const logger = require('../lib/logger');
 const userService = require('../service/userService');
+const { isLoggedIn } = require('../lib/middleware');
 
 // 등록
 router.post('/', async (req, res) => {
@@ -37,7 +38,7 @@ router.post('/', async (req, res) => {
 });
 
 // 리스트 조회
-router.get('/', async (req, res) => {
+router.get('/', isLoggedIn, async (req, res) => {
   try {
     const params = {
       name: req.query.name,
