@@ -42,7 +42,6 @@ router.get('/', isLoggedIn, async (req, res) => {
   try {
     const params = {
       name: req.query.name,
-      userid: req.query.userid,
     };
     logger.info(`(user.list.params) ${JSON.stringify(params)}`);
 

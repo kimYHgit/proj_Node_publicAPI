@@ -2,7 +2,7 @@ const express = require('express');
 const logger = require('../lib/logger');
 const userRouter = require('./user');
 const authRouter = require('./auth');
-
+const stationRouter = require('./station');
 const router = express.Router();
 
 /* GET home page. */
@@ -24,4 +24,5 @@ router.get('/log-test', (req, res, next) => {
 
 router.use('/users', userRouter);
 router.use('/auths', authRouter);
+router.use('/stations',stationRouter);
 module.exports = router;

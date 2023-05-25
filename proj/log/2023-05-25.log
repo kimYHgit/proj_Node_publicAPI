@@ -87,3 +87,281 @@
 2023-05-25 17:10:36.165[info] DB connection success
 2023-05-25 17:10:36.195[info] Sequelize sync success
 2023-05-25 17:10:40.564[error] Error: Unauthorized token
+2023-05-25 18:11:17.563[info] app start
+2023-05-25 18:11:17.645[info] DB connection success
+2023-05-25 18:11:17.686[info] Sequelize sync success
+2023-05-25 18:17:51.479[info] app start
+2023-05-25 18:17:51.500[info] DB connection success
+2023-05-25 18:17:51.509[info] Sequelize sync success
+2023-05-25 18:18:09.092[info] app start
+2023-05-25 18:18:09.113[info] DB connection success
+2023-05-25 18:18:09.133[info] Sequelize sync success
+2023-05-25 18:18:33.162[info] app start
+2023-05-25 18:18:33.184[info] DB connection success
+2023-05-25 18:18:33.191[info] Sequelize sync success
+2023-05-25 18:21:40.026[error] Error: Unauthorized token
+2023-05-25 18:21:40.812[error] Error: Unauthorized token
+2023-05-25 18:21:41.341[error] Error: Unauthorized token
+2023-05-25 18:21:50.227[info] (station.list.params) {}
+2023-05-25 18:21:50.229[error] (stationService.list) TypeError: Cannot read properties of undefined (reading 'findAndCountAll')
+2023-05-25 18:21:50.873[info] (station.list.params) {}
+2023-05-25 18:21:50.874[error] (stationService.list) TypeError: Cannot read properties of undefined (reading 'findAndCountAll')
+2023-05-25 18:22:25.093[info] app start
+2023-05-25 18:22:25.116[info] DB connection success
+2023-05-25 18:22:25.125[info] Sequelize sync success
+2023-05-25 18:22:26.288[info] app start
+2023-05-25 18:22:26.307[info] DB connection success
+2023-05-25 18:22:26.314[info] Sequelize sync success
+2023-05-25 18:22:46.790[info] app start
+2023-05-25 18:22:46.824[info] DB connection success
+2023-05-25 18:22:46.831[info] Sequelize sync success
+2023-05-25 18:24:04.085[info] app start
+2023-05-25 18:24:04.125[info] DB connection success
+2023-05-25 18:24:04.134[info] Sequelize sync success
+2023-05-25 18:24:04.866[info] app start
+2023-05-25 18:24:04.887[info] DB connection success
+2023-05-25 18:24:04.893[info] Sequelize sync success
+2023-05-25 18:24:35.885[info] app start
+2023-05-25 18:24:35.919[info] DB connection success
+2023-05-25 18:24:35.926[info] Sequelize sync success
+2023-05-25 18:25:34.961[info] app start
+2023-05-25 18:25:34.984[info] DB connection success
+2023-05-25 18:25:34.992[info] Sequelize sync success
+2023-05-25 18:25:36.540[info] app start
+2023-05-25 18:25:36.560[info] DB connection success
+2023-05-25 18:25:36.567[info] Sequelize sync success
+2023-05-25 18:25:41.822[info] app start
+2023-05-25 18:25:41.842[info] DB connection success
+2023-05-25 18:25:41.849[info] Sequelize sync success
+2023-05-25 18:25:46.887[info] app start
+2023-05-25 18:25:46.907[info] DB connection success
+2023-05-25 18:25:46.913[info] Sequelize sync success
+2023-05-25 18:25:49.506[info] app start
+2023-05-25 18:25:49.526[info] DB connection success
+2023-05-25 18:25:49.532[info] Sequelize sync success
+2023-05-25 18:26:03.193[info] app start
+2023-05-25 18:26:03.221[info] DB connection success
+2023-05-25 18:26:03.229[info] Sequelize sync success
+2023-05-25 18:26:04.903[info] app start
+2023-05-25 18:26:04.922[info] DB connection success
+2023-05-25 18:26:04.929[info] Sequelize sync success
+2023-05-25 18:26:08.120[info] app start
+2023-05-25 18:26:08.138[info] DB connection success
+2023-05-25 18:26:08.144[info] Sequelize sync success
+2023-05-25 18:26:15.818[info] app start
+2023-05-25 18:26:15.850[info] DB connection success
+2023-05-25 18:26:15.857[info] Sequelize sync success
+2023-05-25 18:26:18.287[info] app start
+2023-05-25 18:26:18.326[info] DB connection success
+2023-05-25 18:26:18.337[info] Sequelize sync success
+2023-05-25 18:26:23.492[info] app start
+2023-05-25 18:26:23.511[info] DB connection success
+2023-05-25 18:26:23.517[info] Sequelize sync success
+2023-05-25 18:26:31.475[info] app start
+2023-05-25 18:26:31.509[info] DB connection success
+2023-05-25 18:26:31.517[info] Sequelize sync success
+2023-05-25 18:26:41.952[info] app start
+2023-05-25 18:26:41.987[info] DB connection success
+2023-05-25 18:26:41.993[info] Sequelize sync success
+2023-05-25 18:26:44.768[info] app start
+2023-05-25 18:26:44.788[info] DB connection success
+2023-05-25 18:26:44.794[info] Sequelize sync success
+2023-05-25 18:27:06.441[info] app start
+2023-05-25 18:27:06.462[info] DB connection success
+2023-05-25 18:27:06.468[info] Sequelize sync success
+2023-05-25 18:27:07.558[info] app start
+2023-05-25 18:27:07.578[info] DB connection success
+2023-05-25 18:27:07.584[info] Sequelize sync success
+2023-05-25 18:27:17.278[info] app start
+2023-05-25 18:27:17.298[info] DB connection success
+2023-05-25 18:27:17.304[info] Sequelize sync success
+2023-05-25 18:27:18.949[info] app start
+2023-05-25 18:27:18.970[info] DB connection success
+2023-05-25 18:27:18.977[info] Sequelize sync success
+2023-05-25 18:27:23.109[info] app start
+2023-05-25 18:27:23.129[info] DB connection success
+2023-05-25 18:27:23.135[info] Sequelize sync success
+2023-05-25 18:27:25.833[info] app start
+2023-05-25 18:27:25.853[info] DB connection success
+2023-05-25 18:27:25.859[info] Sequelize sync success
+2023-05-25 18:27:29.504[info] app start
+2023-05-25 18:27:29.523[info] DB connection success
+2023-05-25 18:27:29.529[info] Sequelize sync success
+2023-05-25 18:27:36.341[info] app start
+2023-05-25 18:27:36.362[info] DB connection success
+2023-05-25 18:27:36.367[info] Sequelize sync success
+2023-05-25 18:27:38.724[info] app start
+2023-05-25 18:27:38.745[info] DB connection success
+2023-05-25 18:27:38.750[info] Sequelize sync success
+2023-05-25 19:06:59.450[info] app start
+2023-05-25 19:06:59.526[info] DB connection success
+2023-05-25 19:06:59.567[info] Sequelize sync success
+2023-05-25 19:07:03.788[info] (station.list.params) {}
+2023-05-25 19:07:03.790[error] (stationService.list) TypeError: Cannot read properties of undefined (reading 'findAndCountAll')
+2023-05-25 19:07:04.465[info] (station.list.params) {}
+2023-05-25 19:07:04.466[error] (stationService.list) TypeError: Cannot read properties of undefined (reading 'findAndCountAll')
+2023-05-25 19:07:04.873[info] (station.list.params) {}
+2023-05-25 19:07:04.874[error] (stationService.list) TypeError: Cannot read properties of undefined (reading 'findAndCountAll')
+2023-05-25 19:07:05.231[info] (station.list.params) {}
+2023-05-25 19:07:05.232[error] (stationService.list) TypeError: Cannot read properties of undefined (reading 'findAndCountAll')
+2023-05-25 19:08:43.134[info] app start
+2023-05-25 19:08:43.156[info] DB connection success
+2023-05-25 19:08:43.162[info] Sequelize sync success
+2023-05-25 19:09:01.420[info] app start
+2023-05-25 19:09:01.441[info] DB connection success
+2023-05-25 19:09:01.448[info] Sequelize sync success
+2023-05-25 19:09:05.535[info] app start
+2023-05-25 19:09:05.555[info] DB connection success
+2023-05-25 19:09:05.561[info] Sequelize sync success
+2023-05-25 19:09:14.757[info] app start
+2023-05-25 19:09:14.776[info] DB connection success
+2023-05-25 19:09:14.795[info] Sequelize sync success
+2023-05-25 19:09:18.371[info] app start
+2023-05-25 19:09:18.392[info] DB connection success
+2023-05-25 19:09:18.398[info] Sequelize sync success
+2023-05-25 19:09:21.704[info] app start
+2023-05-25 19:09:21.744[info] DB connection success
+2023-05-25 19:09:21.757[info] Sequelize sync success
+2023-05-25 19:09:25.013[info] app start
+2023-05-25 19:09:25.034[info] DB connection success
+2023-05-25 19:09:25.040[info] Sequelize sync success
+2023-05-25 19:09:51.135[info] app start
+2023-05-25 19:09:51.172[info] DB connection success
+2023-05-25 19:09:51.179[info] Sequelize sync success
+2023-05-25 19:09:52.059[info] app start
+2023-05-25 19:09:52.078[info] DB connection success
+2023-05-25 19:09:52.084[info] Sequelize sync success
+2023-05-25 19:10:02.166[info] app start
+2023-05-25 19:10:02.188[info] DB connection success
+2023-05-25 19:10:02.193[info] Sequelize sync success
+2023-05-25 19:10:09.621[info] app start
+2023-05-25 19:10:09.641[info] DB connection success
+2023-05-25 19:10:09.711[info] Sequelize sync success
+2023-05-25 19:10:12.587[info] (station.list.params) {}
+2023-05-25 19:10:12.621[debug] (stationService.list) {"count":0,"rows":[]}
+2023-05-25 19:10:12.622[info] (station.list.result) {"count":0,"rows":[]}
+2023-05-25 19:22:15.386[info] (comment.reg.params) {"stId":"1","stNm":"14525","arsId":"11","stSrch":"강남역 12번출구"}
+2023-05-25 19:22:31.710[info] app start
+2023-05-25 19:22:31.792[info] DB connection success
+2023-05-25 19:22:31.833[info] Sequelize sync success
+2023-05-25 19:23:31.288[info] app start
+2023-05-25 19:23:31.325[info] DB connection success
+2023-05-25 19:23:31.337[info] Sequelize sync success
+2023-05-25 19:23:41.419[info] (comment.reg.params) {"stId":"1","stNm":"14525","arsId":"11","stSrch":"강남역 12번출구"}
+2023-05-25 19:23:58.660[info] app start
+2023-05-25 19:23:58.683[info] DB connection success
+2023-05-25 19:23:58.695[info] Sequelize sync success
+2023-05-25 19:24:06.122[info] (comment.reg.params) {"stId":"1","stNm":"14525","arsId":"11","stSrch":"강남역 12번출구"}
+2023-05-25 19:24:06.166[debug] (stationService.reg) {"id":1,"stId":"1","stNm":"14525","arsId":"11","stSrch":"강남역 12번출구","updatedAt":"2023-05-25T10:24:06.124Z","createdAt":"2023-05-25T10:24:06.124Z"}
+2023-05-25 19:24:06.167[info] (content.reg.result) {"id":1,"stId":"1","stNm":"14525","arsId":"11","stSrch":"강남역 12번출구","updatedAt":"2023-05-25T10:24:06.124Z","createdAt":"2023-05-25T10:24:06.124Z"}
+2023-05-25 19:24:47.631[info] (station.list.params) {}
+2023-05-25 19:24:47.667[debug] (stationService.list) {"count":1,"rows":[{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:24:47.668[info] (station.list.result) {"count":1,"rows":[{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:28:39.131[info] (station.list.params) {}
+2023-05-25 19:28:39.153[debug] (stationService.list) {"count":1,"rows":[{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:28:39.154[info] (station.list.result) {"count":1,"rows":[{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:28:46.432[info] (comment.reg.params) {"stId":"2","stNm":"14525","arsId":"11","stSrch":"UVC"}
+2023-05-25 19:28:46.440[debug] (stationService.reg) {"id":2,"stId":"2","stNm":"14525","arsId":"11","stSrch":"UVC","updatedAt":"2023-05-25T10:28:46.433Z","createdAt":"2023-05-25T10:28:46.433Z"}
+2023-05-25 19:28:46.441[info] (content.reg.result) {"id":2,"stId":"2","stNm":"14525","arsId":"11","stSrch":"UVC","updatedAt":"2023-05-25T10:28:46.433Z","createdAt":"2023-05-25T10:28:46.433Z"}
+2023-05-25 19:28:54.821[info] (station.list.params) {}
+2023-05-25 19:28:54.829[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:28:54.829[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:29:09.202[info] (station.list.params) {}
+2023-05-25 19:29:09.211[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:29:09.213[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:29:20.381[info] (station.list.params) {}
+2023-05-25 19:29:20.389[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:29:20.390[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:31:23.900[info] (station.list.params) {}
+2023-05-25 19:31:23.925[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:31:23.925[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:32:04.057[info] app start
+2023-05-25 19:32:04.091[info] DB connection success
+2023-05-25 19:32:04.104[info] Sequelize sync success
+2023-05-25 19:32:05.822[info] (station.list.params) {"stSrch":"강남역"}
+2023-05-25 19:32:05.836[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:32:05.838[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:32:11.857[info] app start
+2023-05-25 19:32:11.877[info] DB connection success
+2023-05-25 19:32:11.886[info] Sequelize sync success
+2023-05-25 19:32:14.568[info] (station.list.params) {"stSrch":"강남역"}
+2023-05-25 19:32:14.589[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:32:14.589[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:34:00.119[info] app start
+2023-05-25 19:34:00.150[info] DB connection success
+2023-05-25 19:34:00.160[info] Sequelize sync success
+2023-05-25 19:34:08.064[info] (station.list.params) {}
+2023-05-25 19:34:08.086[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:34:08.087[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:34:08.697[info] (station.list.params) {}
+2023-05-25 19:34:08.703[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:34:08.705[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:43:03.504[info] app start
+2023-05-25 19:43:03.541[info] DB connection success
+2023-05-25 19:43:03.554[info] Sequelize sync success
+2023-05-25 19:43:04.353[info] app start
+2023-05-25 19:43:04.373[info] DB connection success
+2023-05-25 19:43:04.382[info] Sequelize sync success
+2023-05-25 19:48:00.546[info] (station.list.params) {}
+2023-05-25 19:48:00.559[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:00.560[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:01.111[info] (station.list.params) {}
+2023-05-25 19:48:01.120[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:01.121[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:01.474[info] (station.list.params) {}
+2023-05-25 19:48:01.479[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:01.479[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:20.293[info] app start
+2023-05-25 19:48:20.313[info] DB connection success
+2023-05-25 19:48:20.323[info] Sequelize sync success
+2023-05-25 19:48:24.798[info] (station.list.params) {"stSrch":"강남역"}
+2023-05-25 19:48:24.806[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:24.807[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:25.072[info] (station.list.params) {"stSrch":"강남역"}
+2023-05-25 19:48:25.078[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:25.079[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:25.413[info] (station.list.params) {"stSrch":"강남역"}
+2023-05-25 19:48:25.418[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:25.419[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:27.994[info] (station.list.params) {"stSrch":"강남역"}
+2023-05-25 19:48:27.997[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:27.998[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:48:58.611[info] app start
+2023-05-25 19:48:58.632[info] DB connection success
+2023-05-25 19:48:58.641[info] Sequelize sync success
+2023-05-25 19:55:43.347[info] (station.list.params) {}
+2023-05-25 19:55:43.361[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 19:55:43.362[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 20:00:40.547[info] app start
+2023-05-25 20:00:40.571[info] DB connection success
+2023-05-25 20:00:40.585[info] Sequelize sync success
+2023-05-25 20:00:43.201[info] app start
+2023-05-25 20:00:43.222[info] DB connection success
+2023-05-25 20:00:43.231[info] Sequelize sync success
+2023-05-25 20:00:54.218[info] app start
+2023-05-25 20:00:54.238[info] DB connection success
+2023-05-25 20:00:54.250[info] Sequelize sync success
+2023-05-25 20:01:03.274[info] app start
+2023-05-25 20:01:03.294[info] DB connection success
+2023-05-25 20:01:03.302[info] Sequelize sync success
+2023-05-25 20:01:09.505[info] app start
+2023-05-25 20:01:09.526[info] DB connection success
+2023-05-25 20:01:09.533[info] Sequelize sync success
+2023-05-25 20:01:13.848[info] (station.list.params) {}
+2023-05-25 20:01:13.863[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 20:01:13.863[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 20:01:16.222[info] (station.list.params) {}
+2023-05-25 20:01:16.227[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 20:01:16.228[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 20:01:16.543[info] (station.list.params) {}
+2023-05-25 20:01:16.549[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 20:01:16.550[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 20:01:37.541[info] app start
+2023-05-25 20:01:37.575[info] DB connection success
+2023-05-25 20:01:37.586[info] Sequelize sync success
+2023-05-25 20:01:40.080[info] (station.list.params) {}
+2023-05-25 20:01:40.091[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 20:01:40.092[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 20:01:40.722[info] (station.list.params) {}
+2023-05-25 20:01:40.727[debug] (stationService.list) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}
+2023-05-25 20:01:40.728[info] (station.list.result) {"count":2,"rows":[{"id":2,"stSrch":"UVC","stId":2,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:28:46.000Z","updatedAt":"2023-05-25T10:28:46.000Z","deletedAt":null},{"id":1,"stSrch":"강남역 12번출구","stId":1,"stNm":"14525","arsId":11,"createdAt":"2023-05-25T10:24:06.000Z","updatedAt":"2023-05-25T10:24:06.000Z","deletedAt":null}]}

@@ -1,11 +1,11 @@
 const { Op } = require('sequelize');
-const { station } = require('../models/index');
+const { Station } = require('../models/index');
 
 const dao = {
   // 등록
   insert(params) {
     return new Promise((resolve, reject) => {
-      station.create(params).then((inserted) => {
+      Station.create(params).then((inserted) => {
         resolve(inserted);
       }).catch((err) => {
         reject(err);
@@ -16,16 +16,10 @@ const dao = {
   selectList(params) {
     // where 검색 조건
     const setQuery = {};
-    if (params.title) {
+    if (params.stSrch) {
       setQuery.where = {
         ...setQuery.where,
-        name: { [Op.like]: `%${params.title}%` }, // like검색
-      };
-    }
-    if (params.active) {
-      setQuery.where = {
-        ...setQuery.where,
-        name: { [Op.like]: `%${params.active}%` }, // like검색
+        stSrch: { [Op.like]: `%${params.stSrch}%` }, // like검색
       };
     }
 
@@ -33,7 +27,7 @@ const dao = {
     setQuery.order = [['id', 'DESC']];
 
     return new Promise((resolve, reject) => {
-      station.findAndCountAll({
+      Station.findAndCountAll({
         ...setQuery,
       }).then((selectedList) => {
         resolve(selectedList);
@@ -45,7 +39,7 @@ const dao = {
   // 상세정보 조회
   selectInfo(params) {
     return new Promise((resolve, reject) => {
-      station.findByPk(
+      Station.findByPk(
         params.stSrch
       ).then((selectedInfo) => {
         resolve(selectedInfo);
@@ -57,7 +51,7 @@ const dao = {
   // 수정
   update(params) {
     return new Promise((resolve, reject) => {
-      station.update(
+      Station.update(
         params,
         {
           where: { id: params.id },
@@ -72,7 +66,7 @@ const dao = {
   // 삭제
   delete(params) {
     return new Promise((resolve, reject) => {
-      station.destroy({
+      Station.destroy({
         where: { id: params.id },
       }).then((deleted) => {
         resolve({ deletedCount: deleted });

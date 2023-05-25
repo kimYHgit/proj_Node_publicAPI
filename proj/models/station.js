@@ -3,6 +3,10 @@ const Sequelize = require('sequelize');
 module.exports = class Station extends Sequelize.Model {
   static init(sequelize){
     return super.init({
+      stSrch: {
+        type: Sequelize.STRING(200),
+        allowNull: false,
+      },
       stId: {
         type: Sequelize.INTEGER,
         allowNull: false,
