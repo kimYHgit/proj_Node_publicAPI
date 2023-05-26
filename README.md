@@ -12,6 +12,9 @@
 # ERD 
 - 로그인을 해야 해당 정류장에 도착하는 버스 정보를 조회 할수 있도록 함.
 
+# 참고 API 사이트
+http://data.seoul.go.kr/dataList/OA-12764/A/1/datasetView.do
+
 
 
 
