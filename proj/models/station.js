@@ -1,28 +1,28 @@
 const Sequelize = require('sequelize');
 
 module.exports = class Station extends Sequelize.Model {
-  static init(sequelize){
+  static init(sequelize) {
     return super.init({
-      statnId: { //지하철역 ID
+      statnId: { // 지하철역 ID
         type: Sequelize.INTEGER,
         allowNull: false,
       },
-      statnNm: { //지하철 역명
+      statnNm: { // 지하철 역명
         type: Sequelize.STRING(50),
         allowNull: false,
       },
-      subwayNm: {//지하철 호선명
+      subwayNm: { // 지하철 호선명
         type: Sequelize.STRING(50),
         allowNull: false,
       },
-      subwayId: {//지하철 호선ID
+      subwayId: { // 지하철 호선ID
         type: Sequelize.INTEGER,
-        allowNull:false
+        allowNull: false,
       },
-      statnFid: {//이전지하철역 ID
+      statnFid: { // 이전지하철역 ID
         type: Sequelize.INTEGER,
       },
-      statnTid: {//다음지하철역 ID
+      statnTid: { // 다음지하철역 ID
         type: Sequelize.INTEGER,
       },
       trnsitCo: {
@@ -34,9 +34,10 @@ module.exports = class Station extends Sequelize.Model {
       underscored: true,
       timestamps: true,
       paranoid: true,
-    }); 
+    });
   }
+
   static associate(db) {
-    db.Station.hasMany(db.User,{foreignKey : {name: 'statnId',onDelete:'SET NULL',as:'Users'}});
+    db.Station.hasMany(db.User, { foreignKey: { name: 'statnId', onDelete: 'SET NULL', as: 'User' } });
   }
-}
+};
