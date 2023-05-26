@@ -1,5 +1,5 @@
 const { Op } = require('sequelize');
-const { Station } = require('../models/index');
+const { Station, User } = require('../models/index');
 
 const dao = {
   // 등록
@@ -16,10 +16,10 @@ const dao = {
   selectList(params) {
     // where 검색 조건
     const setQuery = {};
-    if (params.stSrch) {
+    if (params.statnId) {
       setQuery.where = {
         ...setQuery.where,
-        stSrch: { [Op.like]: `${params.stSrch}%` }, // like검색
+        statnId: { [Op.like]: `${params.statnId}%` }, // like검색
       };
     }
 
@@ -40,7 +40,7 @@ const dao = {
   selectInfo(params) {
     return new Promise((resolve, reject) => {
       Station.findByPk(
-        params.stSrch
+        params.statnId,
       ).then((selectedInfo) => {
         resolve(selectedInfo);
       }).catch((err) => {
@@ -67,7 +67,7 @@ const dao = {
   delete(params) {
     return new Promise((resolve, reject) => {
       Station.destroy({
-        where: { stSrch: params.stSrch },
+        where: { statnId: params.statnId },
       }).then((deleted) => {
         resolve({ deletedCount: deleted });
       }).catch((err) => {

@@ -44,17 +44,17 @@ const service = {
     let result = null;
 
     try {
-      //1.게시글 상세조회
+      // 1. 상세조회
       result = await stationDao.selectInfo(params);
       logger.debug(`(stationService.info) ${JSON.stringify(result)}`);
 
-      //조회수 업데이트
-      if(result) {
-        stationDao.update({id:params.id, viewCount: result.viewCount + 1});
+      //  업데이트
+      if (result) {
+        stationDao.update({ id: params.id, viewCount: result.viewCount + 1 });
 
         result.viewCount += 1;
       }
-      //2. 추가 로직
+      // 2. 추가 로직
     } catch (err) {
       logger.error(`(stationService.info) ${err.toString()}`);
       return new Promise((resolve, reject) => {

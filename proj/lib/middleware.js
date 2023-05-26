@@ -18,14 +18,14 @@ const middleware = {
         next(); // 미들웨어 통과(계속 진행)
       } else {
         // 2. 토큰 검증이 실패한 경우 401에러를 응답 한다.
-        const err = new Error('Unauthorized token');
+        const err = new Error('유효하지 않은 토큰입니다.');
         logger.error(err.toString());
 
         res.status(401).json({ err: err.toString() });
       }
     } else {
       // 토큰이 없는 경우 401에러 응답
-      const err = new Error('Unauthorized token');
+      const err = new Error('토큰이 없습니다.');
       logger.error(err.toString());
 
       res.status(401).json({ err: err.toString() });

@@ -21,12 +21,15 @@ module.exports = class Station extends Sequelize.Model {
       },
       statnFid: { // 이전지하철역 ID
         type: Sequelize.INTEGER,
+        allowNull: false,
       },
       statnTid: { // 다음지하철역 ID
         type: Sequelize.INTEGER,
+        allowNull: false,
       },
-      trnsitCo: {
+      trnsitCo: { // 환승 노선수
         type: Sequelize.INTEGER,
+        allowNull: false,
       },
     }, {
       sequelize,
@@ -38,6 +41,6 @@ module.exports = class Station extends Sequelize.Model {
   }
 
   static associate(db) {
-    db.Station.hasMany(db.User, { foreignKey: { name: 'statnId', onDelete: 'SET NULL', as: 'User' } });
+    db.Station.hasMany(db.User, { foreignKey: { name: 'userId', onDelete: 'SET NULL', as: 'User' } });
   }
 };
