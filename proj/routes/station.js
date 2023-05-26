@@ -61,7 +61,7 @@ router.get('/', isLoggedIn, async (req, res) => {
 router.delete('/', isLoggedIn, async (req, res) => {
   try {
     const params = {
-      statnId: req.body.statnId,
+      statnNm: req.body.statnNm,
     };
     logger.info(`(station.delete.params) ${JSON.stringify(params)}`);
 
