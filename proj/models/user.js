@@ -36,4 +36,8 @@ module.exports = class User extends Sequelize.Model {
       paranoid: true, // deletedAt
     });
   }
+  static associate(db) {
+    db.User.belongsTo(db.Station, {foreignKey: {name: 'statnId',onDelete: 'SET NULL', as: 'Station'}});
+  }
+  
 };

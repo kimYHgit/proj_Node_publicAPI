@@ -1,0 +1,633 @@
+2023-05-26 08:00:28.415[info] app start
+2023-05-26 08:00:28.507[info] DB connection success
+2023-05-26 08:00:28.560[info] Sequelize sync success
+2023-05-26 08:00:30.374[info] app start
+2023-05-26 08:00:30.396[info] DB connection success
+2023-05-26 08:00:30.407[info] Sequelize sync success
+2023-05-26 08:00:34.906[info] app start
+2023-05-26 08:00:34.925[info] DB connection success
+2023-05-26 08:00:34.934[info] Sequelize sync success
+2023-05-26 08:00:39.489[info] app start
+2023-05-26 08:00:39.524[info] DB connection success
+2023-05-26 08:00:39.533[info] Sequelize sync success
+2023-05-26 08:00:41.244[info] app start
+2023-05-26 08:00:41.276[info] DB connection success
+2023-05-26 08:00:41.285[info] Sequelize sync success
+2023-05-26 08:01:07.073[info] app start
+2023-05-26 08:01:07.095[info] DB connection success
+2023-05-26 08:01:07.104[info] Sequelize sync success
+2023-05-26 08:01:11.434[info] app start
+2023-05-26 08:01:11.454[info] DB connection success
+2023-05-26 08:01:11.466[info] Sequelize sync success
+2023-05-26 08:01:19.166[info] app start
+2023-05-26 08:01:19.186[info] DB connection success
+2023-05-26 08:01:19.196[info] Sequelize sync success
+2023-05-26 08:01:26.325[info] app start
+2023-05-26 08:01:26.359[info] DB connection success
+2023-05-26 08:01:26.369[info] Sequelize sync success
+2023-05-26 08:01:29.722[info] app start
+2023-05-26 08:01:29.742[info] DB connection success
+2023-05-26 08:01:29.754[info] Sequelize sync success
+2023-05-26 08:01:39.590[info] app start
+2023-05-26 08:01:39.624[info] DB connection success
+2023-05-26 08:01:39.633[info] Sequelize sync success
+2023-05-26 08:01:45.361[info] app start
+2023-05-26 08:01:45.380[info] DB connection success
+2023-05-26 08:01:45.390[info] Sequelize sync success
+2023-05-26 08:01:52.982[info] app start
+2023-05-26 08:01:53.002[info] DB connection success
+2023-05-26 08:01:53.011[info] Sequelize sync success
+2023-05-26 08:01:55.058[info] app start
+2023-05-26 08:01:55.078[info] DB connection success
+2023-05-26 08:01:55.087[info] Sequelize sync success
+2023-05-26 08:02:01.811[info] app start
+2023-05-26 08:02:01.831[info] DB connection success
+2023-05-26 08:02:01.841[info] Sequelize sync success
+2023-05-26 08:02:05.533[info] app start
+2023-05-26 08:02:05.553[info] DB connection success
+2023-05-26 08:02:05.563[info] Sequelize sync success
+2023-05-26 08:02:11.051[info] app start
+2023-05-26 08:02:11.071[info] DB connection success
+2023-05-26 08:02:11.080[info] Sequelize sync success
+2023-05-26 08:02:21.530[info] app start
+2023-05-26 08:02:21.564[info] DB connection success
+2023-05-26 08:02:21.573[info] Sequelize sync success
+2023-05-26 08:02:27.874[info] app start
+2023-05-26 08:02:27.895[info] DB connection success
+2023-05-26 08:02:27.904[info] Sequelize sync success
+2023-05-26 08:02:33.794[info] app start
+2023-05-26 08:02:33.814[info] DB connection success
+2023-05-26 08:02:33.824[info] Sequelize sync success
+2023-05-26 08:02:42.448[info] app start
+2023-05-26 08:02:42.484[info] DB connection success
+2023-05-26 08:02:42.493[info] Sequelize sync success
+2023-05-26 08:02:45.303[info] app start
+2023-05-26 08:02:45.323[info] DB connection success
+2023-05-26 08:02:45.331[info] Sequelize sync success
+2023-05-26 08:02:48.832[info] app start
+2023-05-26 08:02:48.852[info] DB connection success
+2023-05-26 08:02:48.862[info] Sequelize sync success
+2023-05-26 08:02:53.355[info] app start
+2023-05-26 08:02:53.375[info] DB connection success
+2023-05-26 08:02:53.383[info] Sequelize sync success
+2023-05-26 08:03:01.041[info] app start
+2023-05-26 08:03:01.061[info] DB connection success
+2023-05-26 08:03:01.071[info] Sequelize sync success
+2023-05-26 08:03:20.816[info] app start
+2023-05-26 08:03:20.855[info] DB connection success
+2023-05-26 08:03:20.867[info] Sequelize sync success
+2023-05-26 08:03:22.882[info] app start
+2023-05-26 08:03:22.901[info] DB connection success
+2023-05-26 08:03:22.910[info] Sequelize sync success
+2023-05-26 08:03:27.396[info] app start
+2023-05-26 08:03:27.431[info] DB connection success
+2023-05-26 08:03:27.439[info] Sequelize sync success
+2023-05-26 08:03:29.219[info] app start
+2023-05-26 08:03:29.239[info] DB connection success
+2023-05-26 08:03:29.246[info] Sequelize sync success
+2023-05-26 08:04:57.757[info] app start
+2023-05-26 08:04:57.779[info] DB connection success
+2023-05-26 08:04:57.789[info] Sequelize sync success
+2023-05-26 08:09:51.556[info] (station.list.params) {}
+2023-05-26 08:09:51.578[error] (stationService.list) SequelizeDatabaseError: Unknown column 'userid' in 'field list'
+2023-05-26 08:10:36.048[info] app start
+2023-05-26 08:10:36.073[info] DB connection success
+2023-05-26 08:10:36.082[info] Sequelize sync success
+2023-05-26 08:10:40.707[info] (station.list.params) {}
+2023-05-26 08:10:40.718[error] (stationService.list) SequelizeDatabaseError: Unknown column 'userid' in 'field list'
+2023-05-26 08:10:41.340[info] (station.list.params) {}
+2023-05-26 08:10:41.345[error] (stationService.list) SequelizeDatabaseError: Unknown column 'userid' in 'field list'
+2023-05-26 08:10:41.644[info] (station.list.params) {}
+2023-05-26 08:10:41.647[error] (stationService.list) SequelizeDatabaseError: Unknown column 'userid' in 'field list'
+2023-05-26 08:10:42.970[info] (station.list.params) {}
+2023-05-26 08:10:42.992[error] (stationService.list) SequelizeDatabaseError: Unknown column 'userid' in 'field list'
+2023-05-26 08:11:13.510[info] app start
+2023-05-26 08:11:13.533[info] DB connection success
+2023-05-26 08:11:13.545[info] Sequelize sync success
+2023-05-26 08:11:16.638[info] (station.list.params) {}
+2023-05-26 08:11:16.645[error] (stationService.list) SequelizeDatabaseError: Unknown column 'userid' in 'field list'
+2023-05-26 08:11:17.241[info] (station.list.params) {}
+2023-05-26 08:11:17.246[error] (stationService.list) SequelizeDatabaseError: Unknown column 'userid' in 'field list'
+2023-05-26 08:11:17.565[info] (station.list.params) {}
+2023-05-26 08:11:17.568[error] (stationService.list) SequelizeDatabaseError: Unknown column 'userid' in 'field list'
+2023-05-26 08:11:46.924[info] app start
+2023-05-26 08:11:46.946[info] DB connection success
+2023-05-26 08:11:46.959[info] Sequelize sync success
+2023-05-26 08:12:03.314[info] app start
+2023-05-26 08:12:03.336[info] DB connection success
+2023-05-26 08:12:03.346[info] Sequelize sync success
+2023-05-26 08:12:06.909[info] (station.list.params) {}
+2023-05-26 08:12:06.918[error] (stationService.list) SequelizeDatabaseError: Unknown column 'userid' in 'field list'
+2023-05-26 08:12:07.554[info] (station.list.params) {}
+2023-05-26 08:12:07.560[error] (stationService.list) SequelizeDatabaseError: Unknown column 'userid' in 'field list'
+2023-05-26 08:12:07.906[info] (station.list.params) {}
+2023-05-26 08:12:07.914[error] (stationService.list) SequelizeDatabaseError: Unknown column 'userid' in 'field list'
+2023-05-26 08:12:08.930[info] (station.list.params) {}
+2023-05-26 08:12:08.944[error] (stationService.list) SequelizeDatabaseError: Unknown column 'userid' in 'field list'
+2023-05-26 08:12:49.403[info] app start
+2023-05-26 08:12:49.441[info] DB connection success
+2023-05-26 08:12:49.481[info] Sequelize sync success
+2023-05-26 08:12:53.986[info] (station.list.params) {}
+2023-05-26 08:12:53.994[debug] (stationService.list) {"count":0,"rows":[]}
+2023-05-26 08:12:53.994[info] (station.list.result) {"count":0,"rows":[]}
+2023-05-26 08:15:41.678[info] app start
+2023-05-26 08:15:41.702[info] DB connection success
+2023-05-26 08:15:41.717[info] Sequelize sync success
+2023-05-26 08:15:47.398[info] app start
+2023-05-26 08:15:47.458[info] DB connection success
+2023-05-26 08:15:47.466[info] Sequelize sync success
+2023-05-26 08:15:53.439[info] app start
+2023-05-26 08:15:53.467[info] DB connection success
+2023-05-26 08:15:53.478[info] Sequelize sync success
+2023-05-26 08:15:55.941[info] app start
+2023-05-26 08:15:55.963[info] DB connection success
+2023-05-26 08:15:55.973[info] Sequelize sync success
+2023-05-26 08:15:58.750[info] app start
+2023-05-26 08:15:58.769[info] DB connection success
+2023-05-26 08:15:58.779[info] Sequelize sync success
+2023-05-26 08:16:02.835[info] app start
+2023-05-26 08:16:02.856[info] DB connection success
+2023-05-26 08:16:02.864[info] Sequelize sync success
+2023-05-26 08:16:05.086[info] app start
+2023-05-26 08:16:05.122[info] DB connection success
+2023-05-26 08:16:05.131[info] Sequelize sync success
+2023-05-26 08:16:09.488[info] app start
+2023-05-26 08:16:09.528[info] DB connection success
+2023-05-26 08:16:09.544[info] Sequelize sync success
+2023-05-26 08:16:28.032[info] app start
+2023-05-26 08:16:28.055[info] DB connection success
+2023-05-26 08:16:28.064[info] Sequelize sync success
+2023-05-26 08:17:02.478[info] (comment.reg.params) {"stId":"123","stNm":"강남역","arsId":"123","stSrch":"강남역"}
+2023-05-26 08:17:02.530[debug] (stationService.reg) {"id":1,"stId":"123","stNm":"강남역","arsId":"123","stSrch":"강남역","updatedAt":"2023-05-25T23:17:02.480Z","createdAt":"2023-05-25T23:17:02.480Z"}
+2023-05-26 08:17:02.531[info] (content.reg.result) {"id":1,"stId":"123","stNm":"강남역","arsId":"123","stSrch":"강남역","updatedAt":"2023-05-25T23:17:02.480Z","createdAt":"2023-05-25T23:17:02.480Z"}
+2023-05-26 08:17:11.139[info] (station.list.params) {}
+2023-05-26 08:17:11.205[debug] (stationService.list) {"count":1,"rows":[{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 08:17:11.205[info] (station.list.result) {"count":1,"rows":[{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 08:20:47.174[info] app start
+2023-05-26 08:20:47.210[info] DB connection success
+2023-05-26 08:20:47.221[info] Sequelize sync success
+2023-05-26 08:20:49.799[info] app start
+2023-05-26 08:20:49.833[info] DB connection success
+2023-05-26 08:20:49.843[info] Sequelize sync success
+2023-05-26 08:21:08.576[info] app start
+2023-05-26 08:21:08.599[info] DB connection success
+2023-05-26 08:21:08.610[info] Sequelize sync success
+2023-05-26 08:21:10.370[info] app start
+2023-05-26 08:21:10.392[info] DB connection success
+2023-05-26 08:21:10.402[info] Sequelize sync success
+2023-05-26 08:21:12.649[info] app start
+2023-05-26 08:21:12.670[info] DB connection success
+2023-05-26 08:21:12.678[info] Sequelize sync success
+2023-05-26 08:21:27.829[info] app start
+2023-05-26 08:21:27.850[info] DB connection success
+2023-05-26 08:21:27.859[info] Sequelize sync success
+2023-05-26 08:21:35.397[info] app start
+2023-05-26 08:21:35.418[info] DB connection success
+2023-05-26 08:21:35.426[info] Sequelize sync success
+2023-05-26 08:21:45.347[info] app start
+2023-05-26 08:21:45.368[info] DB connection success
+2023-05-26 08:21:45.394[info] Sequelize sync success
+2023-05-26 08:21:58.143[info] app start
+2023-05-26 08:21:58.164[info] DB connection success
+2023-05-26 08:21:58.176[info] Sequelize sync success
+2023-05-26 08:22:03.623[info] app start
+2023-05-26 08:22:03.643[info] DB connection success
+2023-05-26 08:22:03.653[info] Sequelize sync success
+2023-05-26 08:22:07.616[info] app start
+2023-05-26 08:22:07.637[info] DB connection success
+2023-05-26 08:22:07.662[info] Sequelize sync success
+2023-05-26 08:24:04.640[info] app start
+2023-05-26 08:24:04.674[info] DB connection success
+2023-05-26 08:24:04.689[info] Sequelize sync success
+2023-05-26 08:24:11.673[info] app start
+2023-05-26 08:24:11.707[info] DB connection success
+2023-05-26 08:24:11.716[info] Sequelize sync success
+2023-05-26 08:24:20.377[info] app start
+2023-05-26 08:24:20.399[info] DB connection success
+2023-05-26 08:24:20.408[info] Sequelize sync success
+2023-05-26 08:24:25.305[info] app start
+2023-05-26 08:24:25.327[info] DB connection success
+2023-05-26 08:24:25.338[info] Sequelize sync success
+2023-05-26 08:24:29.335[info] app start
+2023-05-26 08:24:29.357[info] DB connection success
+2023-05-26 08:24:29.372[info] Sequelize sync success
+2023-05-26 08:25:48.274[info] app start
+2023-05-26 08:25:48.299[info] DB connection success
+2023-05-26 08:25:48.309[info] Sequelize sync success
+2023-05-26 08:30:56.764[info] app start
+2023-05-26 08:30:56.788[info] DB connection success
+2023-05-26 08:30:56.802[info] Sequelize sync success
+2023-05-26 08:31:31.731[info] app start
+2023-05-26 08:31:31.753[info] DB connection success
+2023-05-26 08:31:31.761[info] Sequelize sync success
+2023-05-26 08:31:32.934[info] app start
+2023-05-26 08:31:32.954[info] DB connection success
+2023-05-26 08:31:32.965[info] Sequelize sync success
+2023-05-26 08:31:34.797[info] app start
+2023-05-26 08:31:34.817[info] DB connection success
+2023-05-26 08:31:34.825[info] Sequelize sync success
+2023-05-26 08:31:36.149[info] app start
+2023-05-26 08:31:36.170[info] DB connection success
+2023-05-26 08:31:36.180[info] Sequelize sync success
+2023-05-26 08:33:26.755[info] app start
+2023-05-26 08:33:26.792[info] DB connection success
+2023-05-26 08:33:26.805[info] Sequelize sync success
+2023-05-26 08:42:03.705[info] app start
+2023-05-26 08:42:03.729[info] DB connection success
+2023-05-26 08:42:03.741[info] Sequelize sync success
+2023-05-26 08:42:05.710[info] app start
+2023-05-26 08:42:05.730[info] DB connection success
+2023-05-26 08:42:05.738[info] Sequelize sync success
+2023-05-26 08:42:22.320[info] app start
+2023-05-26 08:42:22.354[info] DB connection success
+2023-05-26 08:42:22.366[info] Sequelize sync success
+2023-05-26 08:42:41.873[info] app start
+2023-05-26 08:42:41.895[info] DB connection success
+2023-05-26 08:42:41.904[info] Sequelize sync success
+2023-05-26 08:42:53.197[info] app start
+2023-05-26 08:42:53.218[info] DB connection success
+2023-05-26 08:42:53.241[info] Sequelize sync success
+2023-05-26 08:44:13.991[info] app start
+2023-05-26 08:44:14.015[info] DB connection success
+2023-05-26 08:44:14.024[info] Sequelize sync success
+2023-05-26 08:44:18.661[info] app start
+2023-05-26 08:44:18.681[info] DB connection success
+2023-05-26 08:44:18.689[info] Sequelize sync success
+2023-05-26 08:44:28.938[info] app start
+2023-05-26 08:44:28.960[info] DB connection success
+2023-05-26 08:44:28.970[info] Sequelize sync success
+2023-05-26 08:44:40.337[info] app start
+2023-05-26 08:44:40.364[info] DB connection success
+2023-05-26 08:44:40.372[info] Sequelize sync success
+2023-05-26 08:45:00.834[info] app start
+2023-05-26 08:45:00.855[info] DB connection success
+2023-05-26 08:45:00.865[info] Sequelize sync success
+2023-05-26 08:45:07.223[info] app start
+2023-05-26 08:45:07.244[info] DB connection success
+2023-05-26 08:45:07.253[info] Sequelize sync success
+2023-05-26 08:45:16.913[info] app start
+2023-05-26 08:45:16.953[info] DB connection success
+2023-05-26 08:45:16.964[info] Sequelize sync success
+2023-05-26 08:45:18.683[info] app start
+2023-05-26 08:45:18.705[info] DB connection success
+2023-05-26 08:45:18.713[info] Sequelize sync success
+2023-05-26 08:45:23.132[info] app start
+2023-05-26 08:45:23.151[info] DB connection success
+2023-05-26 08:45:23.161[info] Sequelize sync success
+2023-05-26 08:47:09.982[info] app start
+2023-05-26 08:47:10.004[info] DB connection success
+2023-05-26 08:47:10.016[info] Sequelize sync success
+2023-05-26 08:47:14.191[info] app start
+2023-05-26 08:47:14.212[info] DB connection success
+2023-05-26 08:47:14.236[info] Sequelize sync success
+2023-05-26 08:47:19.776[info] app start
+2023-05-26 08:47:19.796[info] DB connection success
+2023-05-26 08:47:19.805[info] Sequelize sync success
+2023-05-26 08:47:24.288[info] app start
+2023-05-26 08:47:24.309[info] DB connection success
+2023-05-26 08:47:24.317[info] Sequelize sync success
+2023-05-26 08:47:27.103[info] app start
+2023-05-26 08:47:27.122[info] DB connection success
+2023-05-26 08:47:27.132[info] Sequelize sync success
+2023-05-26 08:48:15.308[info] app start
+2023-05-26 08:48:15.330[info] DB connection success
+2023-05-26 08:48:15.341[info] Sequelize sync success
+2023-05-26 08:48:21.445[info] app start
+2023-05-26 08:48:21.466[info] DB connection success
+2023-05-26 08:48:21.474[info] Sequelize sync success
+2023-05-26 08:48:26.093[info] app start
+2023-05-26 08:48:26.114[info] DB connection success
+2023-05-26 08:48:26.122[info] Sequelize sync success
+2023-05-26 08:48:34.106[info] app start
+2023-05-26 08:48:34.126[info] DB connection success
+2023-05-26 08:48:34.135[info] Sequelize sync success
+2023-05-26 08:48:39.739[info] app start
+2023-05-26 08:48:39.760[info] DB connection success
+2023-05-26 08:48:39.768[info] Sequelize sync success
+2023-05-26 08:48:53.075[info] app start
+2023-05-26 08:48:53.107[info] DB connection success
+2023-05-26 08:48:53.116[info] Sequelize sync success
+2023-05-26 08:48:56.605[info] app start
+2023-05-26 08:48:56.637[info] DB connection success
+2023-05-26 08:48:56.647[info] Sequelize sync success
+2023-05-26 08:49:05.184[info] app start
+2023-05-26 08:49:05.217[info] DB connection success
+2023-05-26 08:49:05.226[info] Sequelize sync success
+2023-05-26 08:49:06.266[info] app start
+2023-05-26 08:49:06.315[info] DB connection success
+2023-05-26 08:49:06.323[info] Sequelize sync success
+2023-05-26 08:49:34.215[info] app start
+2023-05-26 08:49:34.239[info] DB connection success
+2023-05-26 08:49:34.251[info] Sequelize sync success
+2023-05-26 08:50:13.233[info] app start
+2023-05-26 08:50:13.270[info] DB connection success
+2023-05-26 08:50:13.280[info] Sequelize sync success
+2023-05-26 08:50:37.695[info] app start
+2023-05-26 08:50:37.716[info] DB connection success
+2023-05-26 08:50:37.726[info] Sequelize sync success
+2023-05-26 08:50:38.373[info] app start
+2023-05-26 08:50:38.394[info] DB connection success
+2023-05-26 08:50:38.415[info] Sequelize sync success
+2023-05-26 09:01:59.215[info] (station.reg.params) {"stId":643,"stNm":"강","arsId":123,"stSrch":"강남역 12번출구"}
+2023-05-26 09:01:59.270[debug] (stationService.reg) {"id":2,"stId":643,"stNm":"강","arsId":123,"stSrch":"강남역 12번출구","updatedAt":"2023-05-26T00:01:59.217Z","createdAt":"2023-05-26T00:01:59.217Z"}
+2023-05-26 09:01:59.270[info] (station.reg.result) {"id":2,"stId":643,"stNm":"강","arsId":123,"stSrch":"강남역 12번출구","updatedAt":"2023-05-26T00:01:59.217Z","createdAt":"2023-05-26T00:01:59.217Z"}
+2023-05-26 09:02:02.141[info] (station.reg.params) {"stSrch":"강남역 12번출구","stNm":"강","arsId":123}
+2023-05-26 09:02:02.142[error] (stationUtil.getData)-TypeError [ERR_INVALID_ARG_TYPE]: The "urlObject" argument must be one of type object or string. Received undefined
+2023-05-26 09:02:02.143[info] (station.reg.result) {"result":{}}
+2023-05-26 09:02:02.746[info] (station.reg.params) {"stSrch":"강남역 12번출구","stNm":"강","arsId":123}
+2023-05-26 09:02:02.747[error] (stationUtil.getData)-TypeError [ERR_INVALID_ARG_TYPE]: The "urlObject" argument must be one of type object or string. Received undefined
+2023-05-26 09:02:02.748[info] (station.reg.result) {"result":{}}
+2023-05-26 09:02:03.315[info] (station.reg.params) {"stSrch":"강남역 12번출구","stNm":"강","arsId":123}
+2023-05-26 09:02:03.316[error] (stationUtil.getData)-TypeError [ERR_INVALID_ARG_TYPE]: The "urlObject" argument must be one of type object or string. Received undefined
+2023-05-26 09:02:03.317[info] (station.reg.result) {"result":{}}
+2023-05-26 09:02:06.260[info] (station.reg.params) {"stSrch":"강남역 12번출구","stNm":"강","arsId":123}
+2023-05-26 09:02:06.260[error] (stationUtil.getData)-TypeError [ERR_INVALID_ARG_TYPE]: The "urlObject" argument must be one of type object or string. Received undefined
+2023-05-26 09:02:06.261[info] (station.reg.result) {"result":{}}
+2023-05-26 09:02:06.823[info] (station.reg.params) {"stSrch":"강남역 12번출구","stNm":"강","arsId":123}
+2023-05-26 09:02:06.824[error] (stationUtil.getData)-TypeError [ERR_INVALID_ARG_TYPE]: The "urlObject" argument must be one of type object or string. Received undefined
+2023-05-26 09:02:06.824[info] (station.reg.result) {"result":{}}
+2023-05-26 09:02:10.492[info] (station.reg.params) {"stSrch":"강남역 12번출구","stNm":"강","arsId":123}
+2023-05-26 09:02:10.493[error] (stationUtil.getData)-TypeError [ERR_INVALID_ARG_TYPE]: The "urlObject" argument must be one of type object or string. Received undefined
+2023-05-26 09:02:10.493[info] (station.reg.result) {"result":{}}
+2023-05-26 09:02:10.845[info] (station.reg.params) {"stSrch":"강남역 12번출구","stNm":"강","arsId":123}
+2023-05-26 09:02:10.846[error] (stationUtil.getData)-TypeError [ERR_INVALID_ARG_TYPE]: The "urlObject" argument must be one of type object or string. Received undefined
+2023-05-26 09:02:10.847[info] (station.reg.result) {"result":{}}
+2023-05-26 09:02:11.176[info] (station.reg.params) {"stSrch":"강남역 12번출구","stNm":"강","arsId":123}
+2023-05-26 09:02:11.176[error] (stationUtil.getData)-TypeError [ERR_INVALID_ARG_TYPE]: The "urlObject" argument must be one of type object or string. Received undefined
+2023-05-26 09:02:11.177[info] (station.reg.result) {"result":{}}
+2023-05-26 09:02:12.445[info] (station.reg.params) {"stSrch":"강남역 12번출구","stNm":"강","arsId":123}
+2023-05-26 09:02:12.445[error] (stationUtil.getData)-TypeError [ERR_INVALID_ARG_TYPE]: The "urlObject" argument must be one of type object or string. Received undefined
+2023-05-26 09:02:12.446[info] (station.reg.result) {"result":{}}
+2023-05-26 09:02:16.823[info] (station.reg.params) {"stSrch":"강남역 12번출구","stNm":"강","arsId":123}
+2023-05-26 09:02:16.825[error] (stationUtil.getData)-TypeError [ERR_INVALID_ARG_TYPE]: The "urlObject" argument must be one of type object or string. Received undefined
+2023-05-26 09:02:16.825[info] (station.reg.result) {"result":{}}
+2023-05-26 09:02:17.264[info] (station.reg.params) {"stSrch":"강남역 12번출구","stNm":"강","arsId":123}
+2023-05-26 09:02:17.264[error] (stationUtil.getData)-TypeError [ERR_INVALID_ARG_TYPE]: The "urlObject" argument must be one of type object or string. Received undefined
+2023-05-26 09:02:17.264[info] (station.reg.result) {"result":{}}
+2023-05-26 09:02:20.979[info] (station.reg.params) {"stId":643,"stNm":"강","arsId":123,"stSrch":"강남역 12번출구"}
+2023-05-26 09:02:21.004[debug] (stationService.reg) {"id":3,"stId":643,"stNm":"강","arsId":123,"stSrch":"강남역 12번출구","updatedAt":"2023-05-26T00:02:20.980Z","createdAt":"2023-05-26T00:02:20.980Z"}
+2023-05-26 09:02:21.005[info] (station.reg.result) {"id":3,"stId":643,"stNm":"강","arsId":123,"stSrch":"강남역 12번출구","updatedAt":"2023-05-26T00:02:20.980Z","createdAt":"2023-05-26T00:02:20.980Z"}
+2023-05-26 09:02:31.038[info] (station.list.params) {}
+2023-05-26 09:02:31.057[debug] (stationService.list) {"count":3,"rows":[{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:02:31.057[info] (station.list.result) {"count":3,"rows":[{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:02:38.111[info] (station.list.params) {}
+2023-05-26 09:02:38.115[debug] (stationService.list) {"count":3,"rows":[{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:02:38.115[info] (station.list.result) {"count":3,"rows":[{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:02:55.919[info] (station.reg.params) {"stId":126,"stNm":"사당","arsId":123,"stSrch":"사당역 12번출구"}
+2023-05-26 09:02:55.942[debug] (stationService.reg) {"id":4,"stId":126,"stNm":"사당","arsId":123,"stSrch":"사당역 12번출구","updatedAt":"2023-05-26T00:02:55.919Z","createdAt":"2023-05-26T00:02:55.919Z"}
+2023-05-26 09:02:55.943[info] (station.reg.result) {"id":4,"stId":126,"stNm":"사당","arsId":123,"stSrch":"사당역 12번출구","updatedAt":"2023-05-26T00:02:55.919Z","createdAt":"2023-05-26T00:02:55.919Z"}
+2023-05-26 09:03:26.449[info] (station.list.params) {}
+2023-05-26 09:03:26.486[debug] (stationService.list) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:03:26.487[info] (station.list.result) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:08:10.296[info] app start
+2023-05-26 09:08:10.328[info] DB connection success
+2023-05-26 09:08:10.369[info] Sequelize sync success
+2023-05-26 09:08:12.590[info] (station.list.params) {}
+2023-05-26 09:08:12.598[debug] (stationService.list) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:08:12.598[info] (station.list.result) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:08:44.182[info] app start
+2023-05-26 09:08:44.205[info] DB connection success
+2023-05-26 09:08:44.215[info] Sequelize sync success
+2023-05-26 09:08:52.771[info] app start
+2023-05-26 09:08:52.793[info] DB connection success
+2023-05-26 09:08:52.803[info] Sequelize sync success
+2023-05-26 09:08:53.935[info] app start
+2023-05-26 09:08:53.956[info] DB connection success
+2023-05-26 09:08:53.965[info] Sequelize sync success
+2023-05-26 09:08:56.000[info] (station.list.params) {}
+2023-05-26 09:08:56.011[debug] (stationService.list) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:08:56.012[info] (station.list.result) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:08:56.707[info] (station.list.params) {}
+2023-05-26 09:08:56.715[debug] (stationService.list) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:08:56.716[info] (station.list.result) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:09:07.634[info] (station.list.params) {}
+2023-05-26 09:09:07.655[debug] (stationService.list) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:09:07.656[info] (station.list.result) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:09:08.483[info] (station.list.params) {}
+2023-05-26 09:09:08.488[debug] (stationService.list) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:09:08.489[info] (station.list.result) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:10:27.198[info] (station.delete.params) {"stSrch":"\"사당역 12번출구\""}
+2023-05-26 09:10:27.209[error] (stationService.delete) Error: WHERE parameter "id" has invalid "undefined" value
+2023-05-26 09:11:03.694[info] (station.delete.params) {"stSrch":"사당역 12번출구"}
+2023-05-26 09:11:03.698[error] (stationService.delete) Error: WHERE parameter "id" has invalid "undefined" value
+2023-05-26 09:11:08.727[info] (station.delete.params) {"stSrch":"사당역"}
+2023-05-26 09:11:08.728[error] (stationService.delete) Error: WHERE parameter "id" has invalid "undefined" value
+2023-05-26 09:11:13.680[info] (station.delete.params) {"stSrch":"'사당역'"}
+2023-05-26 09:11:13.681[error] (stationService.delete) Error: WHERE parameter "id" has invalid "undefined" value
+2023-05-26 09:11:59.688[info] (station.delete.params) {"stSrch":"'사당역'"}
+2023-05-26 09:11:59.691[error] (stationService.delete) Error: WHERE parameter "id" has invalid "undefined" value
+2023-05-26 09:12:00.451[info] (station.delete.params) {"stSrch":"'사당역'"}
+2023-05-26 09:12:00.453[error] (stationService.delete) Error: WHERE parameter "id" has invalid "undefined" value
+2023-05-26 09:12:54.379[info] app start
+2023-05-26 09:12:54.403[info] DB connection success
+2023-05-26 09:12:54.415[info] Sequelize sync success
+2023-05-26 09:13:01.461[info] app start
+2023-05-26 09:13:01.484[info] DB connection success
+2023-05-26 09:13:01.493[info] Sequelize sync success
+2023-05-26 09:13:06.145[info] app start
+2023-05-26 09:13:06.166[info] DB connection success
+2023-05-26 09:13:06.177[info] Sequelize sync success
+2023-05-26 09:14:14.980[info] app start
+2023-05-26 09:14:15.004[info] DB connection success
+2023-05-26 09:14:15.014[info] Sequelize sync success
+2023-05-26 09:14:15.483[info] app start
+2023-05-26 09:14:15.515[info] DB connection success
+2023-05-26 09:14:15.526[info] Sequelize sync success
+2023-05-26 09:14:19.043[info] app start
+2023-05-26 09:14:19.064[info] DB connection success
+2023-05-26 09:14:19.073[info] Sequelize sync success
+2023-05-26 09:14:22.595[info] (station.delete.params) {"stSrch":"'사당역'"}
+2023-05-26 09:14:22.602[debug] (stationService.delete) {"deletedCount":0}
+2023-05-26 09:14:22.603[info] (station.delete.result) {"deletedCount":0}
+2023-05-26 09:14:30.194[info] (station.delete.params) {"stSrch":"'사당역 12번출'"}
+2023-05-26 09:14:30.198[debug] (stationService.delete) {"deletedCount":0}
+2023-05-26 09:14:30.198[info] (station.delete.result) {"deletedCount":0}
+2023-05-26 09:14:35.247[info] (station.delete.params) {"stSrch":"'사당역 12번출구'"}
+2023-05-26 09:14:35.253[debug] (stationService.delete) {"deletedCount":0}
+2023-05-26 09:14:35.254[info] (station.delete.result) {"deletedCount":0}
+2023-05-26 09:14:35.908[info] (station.delete.params) {"stSrch":"'사당역 12번출구'"}
+2023-05-26 09:14:35.911[debug] (stationService.delete) {"deletedCount":0}
+2023-05-26 09:14:35.911[info] (station.delete.result) {"deletedCount":0}
+2023-05-26 09:14:44.863[info] (station.list.params) {}
+2023-05-26 09:14:44.883[debug] (stationService.list) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:14:44.884[info] (station.list.result) {"count":4,"rows":[{"id":4,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:02:55.000Z","updatedAt":"2023-05-26T00:02:55.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:15:23.334[info] (station.delete.params) {"stSrch":"\"사당역 12번출구\""}
+2023-05-26 09:15:23.385[debug] (stationService.delete) {"deletedCount":0}
+2023-05-26 09:15:23.385[info] (station.delete.result) {"deletedCount":0}
+2023-05-26 09:15:59.606[info] app start
+2023-05-26 09:15:59.629[info] DB connection success
+2023-05-26 09:15:59.640[info] Sequelize sync success
+2023-05-26 09:16:06.150[info] app start
+2023-05-26 09:16:06.173[info] DB connection success
+2023-05-26 09:16:06.182[info] Sequelize sync success
+2023-05-26 09:16:22.943[info] (station.delete.params) {"stSrch":"사당역 12번출구"}
+2023-05-26 09:16:22.969[debug] (stationService.delete) {"deletedCount":1}
+2023-05-26 09:16:22.970[info] (station.delete.result) {"deletedCount":1}
+2023-05-26 09:16:26.277[info] (station.list.params) {}
+2023-05-26 09:16:26.309[debug] (stationService.list) {"count":3,"rows":[{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:16:26.310[info] (station.list.result) {"count":3,"rows":[{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:16:42.592[info] app start
+2023-05-26 09:16:42.615[info] DB connection success
+2023-05-26 09:16:42.649[info] Sequelize sync success
+2023-05-26 09:16:49.553[info] (station.reg.params) {"stId":126,"stNm":"사당","arsId":123,"stSrch":"사당역 12번출구"}
+2023-05-26 09:16:49.561[debug] (stationService.reg) {"id":5,"stId":126,"stNm":"사당","arsId":123,"stSrch":"사당역 12번출구","updatedAt":"2023-05-26T00:16:49.555Z","createdAt":"2023-05-26T00:16:49.555Z"}
+2023-05-26 09:16:49.561[info] (station.reg.result) {"id":5,"stId":126,"stNm":"사당","arsId":123,"stSrch":"사당역 12번출구","updatedAt":"2023-05-26T00:16:49.555Z","createdAt":"2023-05-26T00:16:49.555Z"}
+2023-05-26 09:16:53.916[info] (station.list.params) {}
+2023-05-26 09:16:53.944[debug] (stationService.list) {"count":4,"rows":[{"id":5,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:16:49.000Z","updatedAt":"2023-05-26T00:16:49.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:16:53.945[info] (station.list.result) {"count":4,"rows":[{"id":5,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:16:49.000Z","updatedAt":"2023-05-26T00:16:49.000Z","deletedAt":null,"userid":null},{"id":3,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:02:20.000Z","updatedAt":"2023-05-26T00:02:20.000Z","deletedAt":null,"userid":null},{"id":2,"stSrch":"강남역 12번출구","stId":643,"stNm":"강","arsId":123,"createdAt":"2023-05-26T00:01:59.000Z","updatedAt":"2023-05-26T00:01:59.000Z","deletedAt":null,"userid":null},{"id":1,"stSrch":"강남역","stId":123,"stNm":"강남역","arsId":123,"createdAt":"2023-05-25T23:17:02.000Z","updatedAt":"2023-05-25T23:17:02.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:17:06.483[info] (station.list.params) {"stSrch":"사당역 12번출구"}
+2023-05-26 09:17:06.503[debug] (stationService.list) {"count":1,"rows":[{"id":5,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:16:49.000Z","updatedAt":"2023-05-26T00:16:49.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:17:06.503[info] (station.list.result) {"count":1,"rows":[{"id":5,"stSrch":"사당역 12번출구","stId":126,"stNm":"사당","arsId":123,"createdAt":"2023-05-26T00:16:49.000Z","updatedAt":"2023-05-26T00:16:49.000Z","deletedAt":null,"userid":null}]}
+2023-05-26 09:24:04.239[info] app start
+2023-05-26 09:24:04.280[info] DB connection success
+2023-05-26 09:24:04.291[info] Sequelize sync success
+2023-05-26 09:24:12.532[info] app start
+2023-05-26 09:24:12.555[info] DB connection success
+2023-05-26 09:24:12.565[info] Sequelize sync success
+2023-05-26 09:24:19.556[info] app start
+2023-05-26 09:24:19.590[info] DB connection success
+2023-05-26 09:24:19.599[info] Sequelize sync success
+2023-05-26 09:24:23.420[info] app start
+2023-05-26 09:24:23.440[info] DB connection success
+2023-05-26 09:24:23.448[info] Sequelize sync success
+2023-05-26 09:24:29.084[info] app start
+2023-05-26 09:24:29.105[info] DB connection success
+2023-05-26 09:24:29.112[info] Sequelize sync success
+2023-05-26 09:24:38.805[error] Error: Unauthorized token
+2023-05-26 09:30:03.103[info] (user.reg.params) {"name":"jib","userid":"dlawlqls","password":"1234","role":"staff","email":"a@b.com","phone":"010-123-123"}
+2023-05-26 09:30:03.107[debug] (userService.makePassword) "1234"
+2023-05-26 09:30:03.159[debug] (userService.reg) {"id":1,"name":"jib","userid":"dlawlqls","role":"staff","email":"a@b.com","phone":"010-123-123","updatedAt":"2023-05-26T00:30:03.116Z","createdAt":"2023-05-26T00:30:03.116Z"}
+2023-05-26 09:30:03.159[info] (user.reg.result) {"id":1,"name":"jib","userid":"dlawlqls","role":"staff","email":"a@b.com","phone":"010-123-123","updatedAt":"2023-05-26T00:30:03.116Z","createdAt":"2023-05-26T00:30:03.116Z"}
+2023-05-26 09:30:41.332[error] Error: Unauthorized token
+2023-05-26 09:37:33.054[error] Error: Unauthorized token
+2023-05-26 09:37:39.413[error] Error: Unauthorized token
+2023-05-26 09:38:45.496[info] (user.reg.params) {"name":"jibin","userid":"룰루","password":"!.!","role":"staff","email":"a@b.com","phone":"010-123-123"}
+2023-05-26 09:38:45.503[debug] (userService.makePassword) "!.!"
+2023-05-26 09:38:45.579[debug] (userService.reg) {"id":2,"name":"jibin","userid":"룰루","role":"staff","email":"a@b.com","phone":"010-123-123","updatedAt":"2023-05-26T00:38:45.506Z","createdAt":"2023-05-26T00:38:45.506Z"}
+2023-05-26 09:38:45.579[info] (user.reg.result) {"id":2,"name":"jibin","userid":"룰루","role":"staff","email":"a@b.com","phone":"010-123-123","updatedAt":"2023-05-26T00:38:45.506Z","createdAt":"2023-05-26T00:38:45.506Z"}
+2023-05-26 11:01:49.979[info] app start
+2023-05-26 11:01:50.063[info] DB connection success
+2023-05-26 11:01:50.126[info] Sequelize sync success
+2023-05-26 11:01:56.881[info] app start
+2023-05-26 11:01:56.917[info] DB connection success
+2023-05-26 11:01:56.927[info] Sequelize sync success
+2023-05-26 11:02:03.224[info] app start
+2023-05-26 11:02:03.245[info] DB connection success
+2023-05-26 11:02:03.254[info] Sequelize sync success
+2023-05-26 11:02:09.365[info] app start
+2023-05-26 11:02:09.386[info] DB connection success
+2023-05-26 11:02:09.408[info] Sequelize sync success
+2023-05-26 11:02:10.909[info] app start
+2023-05-26 11:02:10.934[info] DB connection success
+2023-05-26 11:02:10.941[info] Sequelize sync success
+2023-05-26 11:02:12.504[info] app start
+2023-05-26 11:02:12.525[info] DB connection success
+2023-05-26 11:02:12.534[info] Sequelize sync success
+2023-05-26 11:02:18.102[info] app start
+2023-05-26 11:02:18.123[info] DB connection success
+2023-05-26 11:02:18.135[info] Sequelize sync success
+2023-05-26 11:02:19.751[info] app start
+2023-05-26 11:02:19.783[info] DB connection success
+2023-05-26 11:02:19.792[info] Sequelize sync success
+2023-05-26 11:08:01.533[info] app start
+2023-05-26 11:08:01.568[info] DB connection success
+2023-05-26 11:08:01.940[info] Sequelize sync success
+2023-05-26 11:08:37.957[info] app start
+2023-05-26 11:08:37.980[info] DB connection success
+2023-05-26 11:08:37.991[info] Sequelize sync success
+2023-05-26 11:08:50.616[info] app start
+2023-05-26 11:08:50.651[info] DB connection success
+2023-05-26 11:08:50.658[info] Sequelize sync success
+2023-05-26 11:08:52.740[info] app start
+2023-05-26 11:08:52.761[info] DB connection success
+2023-05-26 11:08:52.769[info] Sequelize sync success
+2023-05-26 11:09:22.834[info] app start
+2023-05-26 11:09:22.858[info] DB connection success
+2023-05-26 11:09:22.866[info] Sequelize sync success
+2023-05-26 11:09:26.502[info] app start
+2023-05-26 11:09:26.523[info] DB connection success
+2023-05-26 11:09:26.530[info] Sequelize sync success
+2023-05-26 11:09:30.584[info] app start
+2023-05-26 11:09:30.605[info] DB connection success
+2023-05-26 11:09:30.613[info] Sequelize sync success
+2023-05-26 11:09:34.178[info] app start
+2023-05-26 11:09:34.199[info] DB connection success
+2023-05-26 11:09:34.209[info] Sequelize sync success
+2023-05-26 11:09:41.469[info] app start
+2023-05-26 11:09:41.505[info] DB connection success
+2023-05-26 11:09:41.516[info] Sequelize sync success
+2023-05-26 11:09:46.657[info] app start
+2023-05-26 11:09:46.678[info] DB connection success
+2023-05-26 11:09:46.687[info] Sequelize sync success
+2023-05-26 11:09:54.276[info] app start
+2023-05-26 11:09:54.297[info] DB connection success
+2023-05-26 11:09:54.305[info] Sequelize sync success
+2023-05-26 11:10:00.006[info] app start
+2023-05-26 11:10:00.046[info] DB connection success
+2023-05-26 11:10:00.057[info] Sequelize sync success
+2023-05-26 11:10:01.912[info] app start
+2023-05-26 11:10:01.935[info] DB connection success
+2023-05-26 11:10:01.944[info] Sequelize sync success
+2023-05-26 11:10:03.972[info] app start
+2023-05-26 11:10:04.029[info] DB connection success
+2023-05-26 11:10:04.040[info] Sequelize sync success
+2023-05-26 11:10:09.912[info] app start
+2023-05-26 11:10:09.933[info] DB connection success
+2023-05-26 11:10:09.942[info] Sequelize sync success
+2023-05-26 11:10:12.271[info] app start
+2023-05-26 11:10:12.292[info] DB connection success
+2023-05-26 11:10:12.300[info] Sequelize sync success
+2023-05-26 11:10:13.278[info] app start
+2023-05-26 11:10:13.299[info] DB connection success
+2023-05-26 11:10:13.307[info] Sequelize sync success
+2023-05-26 11:10:14.844[info] app start
+2023-05-26 11:10:14.867[info] DB connection success
+2023-05-26 11:10:14.876[info] Sequelize sync success
+2023-05-26 11:10:22.156[info] app start
+2023-05-26 11:10:22.177[info] DB connection success
+2023-05-26 11:10:22.186[info] Sequelize sync success
+2023-05-26 11:10:25.454[info] app start
+2023-05-26 11:10:25.476[info] DB connection success
+2023-05-26 11:10:25.485[info] Sequelize sync success
+2023-05-26 11:10:27.075[info] app start
+2023-05-26 11:10:27.095[info] DB connection success
+2023-05-26 11:10:27.103[info] Sequelize sync success
+2023-05-26 11:10:36.361[info] app start
+2023-05-26 11:10:36.383[info] DB connection success
+2023-05-26 11:10:36.391[info] Sequelize sync success
+2023-05-26 11:10:38.388[info] app start
+2023-05-26 11:10:38.408[info] DB connection success
+2023-05-26 11:10:38.416[info] Sequelize sync success
+2023-05-26 11:10:48.280[info] app start
+2023-05-26 11:10:48.300[info] DB connection success
+2023-05-26 11:10:48.325[info] Sequelize sync success
+2023-05-26 11:10:55.121[info] app start
+2023-05-26 11:10:55.142[info] DB connection success
+2023-05-26 11:10:55.153[info] Sequelize sync success
+2023-05-26 11:11:02.001[info] app start
+2023-05-26 11:11:02.023[info] DB connection success
+2023-05-26 11:11:02.031[info] Sequelize sync success
+2023-05-26 11:11:09.483[info] app start
+2023-05-26 11:11:09.503[info] DB connection success
+2023-05-26 11:11:09.512[info] Sequelize sync success
+2023-05-26 11:12:04.770[info] app start
+2023-05-26 11:12:04.808[info] DB connection success
+2023-05-26 11:12:04.818[info] Sequelize sync success
+2023-05-26 11:12:10.537[info] app start
+2023-05-26 11:12:10.559[info] DB connection success
+2023-05-26 11:12:10.568[info] Sequelize sync success
+2023-05-26 11:12:24.252[info] app start
+2023-05-26 11:12:24.273[info] DB connection success
+2023-05-26 11:12:24.283[info] Sequelize sync success
+2023-05-26 11:12:29.859[info] app start
+2023-05-26 11:12:29.880[info] DB connection success
+2023-05-26 11:12:29.888[info] Sequelize sync success
+2023-05-26 11:12:32.890[info] app start
+2023-05-26 11:12:32.910[info] DB connection success
+2023-05-26 11:12:32.919[info] Sequelize sync success
+2023-05-26 11:14:39.478[info] app start
+2023-05-26 11:14:39.501[info] DB connection success
+2023-05-26 11:14:39.524[info] Sequelize sync success
+2023-05-26 11:15:00.100[info] app start
+2023-05-26 11:15:00.134[info] DB connection success
+2023-05-26 11:15:00.143[info] Sequelize sync success

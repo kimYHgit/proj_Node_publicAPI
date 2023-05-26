@@ -19,7 +19,7 @@ const dao = {
     if (params.stSrch) {
       setQuery.where = {
         ...setQuery.where,
-        stSrch: { [Op.like]: `%${params.stSrch}%` }, // like검색
+        stSrch: { [Op.like]: `${params.stSrch}%` }, // like검색
       };
     }
 
@@ -67,7 +67,7 @@ const dao = {
   delete(params) {
     return new Promise((resolve, reject) => {
       Station.destroy({
-        where: { id: params.id },
+        where: { stSrch: params.stSrch },
       }).then((deleted) => {
         resolve({ deletedCount: deleted });
       }).catch((err) => {

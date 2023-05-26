@@ -3,20 +3,25 @@ const express = require('express');
 const router = express.Router();
 const logger = require('../lib/logger');
 const stationService = require('../service/stationService');
+const stationUtil = require('../lib/stationUtil');
+const {isLoggedIn} = require('../lib/middleware');
 
-router.post('/', async (req, res) => {
+router.post('/',isLoggedIn ,async (req, res) => {
   try {
     const params = {
-      stId : req.body.stId,
-      stNm : req.body.stNm,
-      arsId : req.body.arsId,
-      stSrch: req.body.stSrch,
+      statnId : req.body.statnId,
+      statnNm : req.body.statnNm,
+      subwayNm : req.body.subwayNm,
+      subwayId: req.body.subwayId,
+      statnFid: req.body.statnFid,
+      statnTid: req.body.statnTid,
+      trnsitCo: req.body.trnsitCo,
     };
-    logger.info(`(comment.reg.params) ${JSON.stringify(params)}`);
+    logger.info(`(station.reg.params) ${JSON.stringify(params)}`);
 
     // 입력값 null 체크
-    if (!params.stSrch) {
-      const err = new Error('Not allowed null (stSrch)');
+    if (!params.statnId || !params.statnNm || !params.subwayId || !params.trnsitCo) {
+      const err = new Error('Not allowed null (statnId,stNm,arsId,statnId)');
       logger.error(err.toString());
 
       res.status(500).json({ err: err.toString() });
@@ -24,7 +29,7 @@ router.post('/', async (req, res) => {
 
     // 비즈니스 로직 호출
     const result = await stationService.reg(params);
-    logger.info(`(content.reg.result) ${JSON.stringify(result)}`);
+    logger.info(`(station.reg.result) ${JSON.stringify(result)}`);
 
     // 최종 응답
     res.status(200).json(result);
@@ -34,10 +39,10 @@ router.post('/', async (req, res) => {
 });
 
 // 리스트 조회
-router.get('/', async (req, res) => {
+router.get('/',isLoggedIn, async (req, res) => {
   try {
     const params = {
-      stSrch: req.query.stSrch,
+      statnId: req.body.statnId,
     };
     logger.info(`(station.list.params) ${JSON.stringify(params)}`);
 
@@ -52,10 +57,10 @@ router.get('/', async (req, res) => {
 });
 
 // 삭제
-router.delete('/:stSrch', async (req, res) => {
+router.delete('/',isLoggedIn, async (req, res) => {
   try {
     const params = {
-      stSrch: req.params.stSrch,
+      statnId: req.body.statnId,
     };
     logger.info(`(station.delete.params) ${JSON.stringify(params)}`);
 
@@ -67,6 +72,35 @@ router.delete('/:stSrch', async (req, res) => {
   } catch (err) {
     res.status(500).json({ err: err.toString() });
   }
+});
+
+router.post('/',isLoggedIn, async (req, res) => {
+  try {
+    const params = {
+      statnId : req.params.statnId,
+      statnNm : req.body.statnNm,
+      arsId : req.body.arsId,
+      statnId: req.body.statnId,
+    };
+    logger.info(`(station.reg.params) ${JSON.stringify(params)}`);
+
+    // // 입력값 null 체크
+    // if (!params.name) {
+    //   const err = new Error('Not allowed null (name)');
+    //   logger.error(err.toString());
+
+    //   res.status(500).json({ err: err.toString() });
+    // }
+
+    // 비즈니스 로직 호출
+    const result = await stationUtil.getData(params);
+    logger.info(`(station.reg.result) ${JSON.stringify(result)}`);
+
+  //   // 최종 응답
+    res.status(200).json(result);
+  } catch (err) {
+    res.status(500).json({ err: err.toString() });
+   }
 });
 
 module.exports = router;

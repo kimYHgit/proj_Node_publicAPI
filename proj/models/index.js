@@ -15,4 +15,7 @@ db.Station = Station;
 // Department.init(sequelize);
 User.init(sequelize);
 Station.init(sequelize);
+
+User.associate(db);
+Station.associate(db);
 module.exports = db;
