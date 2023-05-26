@@ -23,7 +23,7 @@
 
 
 
-## 강남역 예시
+## 잠실역 예시
 ![스크린샷(69)](https://github.com/kimYHgit/proj_Node_publicAPI/assets/130536070/e6ca58c1-8c25-424c-9843-8b32470fe40c)
 
 
